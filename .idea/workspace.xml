@@ -1,11 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="36328dd0-547b-4f30-8b71-6fd652e8b8e5" name="Changes" comment="" />
+    <list default="true" id="36328dd0-547b-4f30-8b71-6fd652e8b8e5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/lesson1/homework1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson1/homework1/Status.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson1/homework1/course/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson1/homework1/course/Jumping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson1/homework1/course/Obstacle_Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson1/homework1/course/Running.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson1/homework1/course/Shooting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson1/homework1/course/Swimming.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson1/homework1/team/Team.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson1/homework1/team/TeamMember.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2DqfTx78Cg2RX0ygqPJWuvVp1KA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
