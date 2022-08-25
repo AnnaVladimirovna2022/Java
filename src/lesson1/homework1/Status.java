@@ -1,4 +1,9 @@
 package lesson1.homework1;
 
-public class Status {
+public enum Status {
+    PassedDistance,
+    NoPassedDistance;
+
+    private Status() {
+    }
 }
