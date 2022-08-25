@@ -57,5 +57,3 @@ public class CheckingArray {
         System.out.println("The sum of the array elements is: " + result);
     }
 }
-
-

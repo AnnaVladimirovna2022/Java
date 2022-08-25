@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36328dd0-547b-4f30-8b71-6fd652e8b8e5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lesson2/homework2/CheckingArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson2/homework2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson2/homework2/MyArrayDataException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson2/homework2/MyArraySizeException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson2/homework2/CheckingArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson2/homework2/CheckingArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson2/homework2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson2/homework2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson2/homework2/MyArrayDataException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson2/homework2/MyArrayDataException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson2/homework2/MyArraySizeException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson2/homework2/MyArraySizeException.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +22,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="lesson1" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -55,6 +55,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>

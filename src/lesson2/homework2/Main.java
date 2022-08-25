@@ -21,6 +21,3 @@ public class Main {
         return array;
     }
 }
-
-
-
