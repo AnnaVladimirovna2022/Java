@@ -19,14 +19,14 @@ public class WordsArray {
         }
     }
 
-    private HashMap<String, Integer> getMapWords(String[] arrayWords) {
+    private HashMap<String, Integer> getMapWords(String[] wordsArray) {
         HashMap<String, Integer> mapWords = new HashMap<>();
-        for (int i = 0; i < arrayWords.length; i++) {
-            if (mapWords.containsKey(arrayWords[i])) {
-                mapWords.put(arrayWords[i], mapWords.get(arrayWords[i]) + 1);
+        for (int i = 0; i < wordsArray.length; i++) {
+            if (mapWords.containsKey(wordsArray[i])) {
+                mapWords.put(wordsArray[i], mapWords.get(wordsArray[i]) + 1);
             }
             else {
-                mapWords.put(arrayWords[i],1);
+                mapWords.put(wordsArray[i],1);
             }
         }
         return mapWords;

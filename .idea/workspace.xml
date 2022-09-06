@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="36328dd0-547b-4f30-8b71-6fd652e8b8e5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lesson4/homework4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson4/homework4/Phonebook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson4/homework4/WordsArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="36328dd0-547b-4f30-8b71-6fd652e8b8e5" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,6 +66,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.lesson4.homework4.Main" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.lesson4.homework4.Main" />
         <item itemvalue="Application.Main" />
       </list>
